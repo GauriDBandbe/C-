@@ -1,0 +1,7 @@
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\bin\Debug\DelegateApp.exe.config
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\bin\Debug\DelegateApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\bin\Debug\DelegateApp.pdb
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\obj\Debug\DelegateApp.csproj.AssemblyReference.cache
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\obj\Debug\DelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\obj\Debug\DelegateApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\DelegateApp\obj\Debug\DelegateApp.pdb

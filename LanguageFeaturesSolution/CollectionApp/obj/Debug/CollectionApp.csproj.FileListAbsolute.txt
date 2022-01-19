@@ -1,0 +1,7 @@
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\bin\Debug\CollectionApp.exe.config
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\bin\Debug\CollectionApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\bin\Debug\CollectionApp.pdb
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\obj\Debug\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\obj\Debug\CollectionApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\obj\Debug\CollectionApp.pdb
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\CollectionApp\obj\Debug\CollectionApp.csproj.AssemblyReference.cache

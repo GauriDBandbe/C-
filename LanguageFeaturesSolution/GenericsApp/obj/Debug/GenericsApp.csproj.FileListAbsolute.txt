@@ -1,0 +1,7 @@
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\bin\Debug\GenericsApp.exe.config
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\bin\Debug\GenericsApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\bin\Debug\GenericsApp.pdb
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\obj\Debug\GenericsApp.csproj.AssemblyReference.cache
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\obj\Debug\GenericsApp.csproj.CoreCompileInputs.cache
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\obj\Debug\GenericsApp.exe
+C:\Users\GauriB2\Desktop\Impact\C#\LanguageFeaturesSolution\GenericsApp\obj\Debug\GenericsApp.pdb
